@@ -1,6 +1,6 @@
-name: Basic Template
+name: "Survival Skills: Computer Literacy"
 highlighter: pygments
 safe: false
-baseurl: /basic-template
+baseurl: /computer-literacy-course
 exclude: [morea]
 morea_theme: cerulean
